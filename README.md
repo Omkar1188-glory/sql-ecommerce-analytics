@@ -9,8 +9,6 @@ The project is structured to clearly show:
 - How data is analyzed
 - How SQL skills were practiced step by step
 
-This repository is suitable for **Data Analyst / Data Scientist / SQL-heavy roles**.
-
 ---
 
 ## 🗂 Repository Structure
