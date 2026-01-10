@@ -93,3 +93,10 @@ This project is designed as a **portfolio project** to demonstrate:
 - Strong SQL fundamentals
 - Real-world data handling
 - Analytical thinking using SQL
+
+## 👤 Author
+Omkar Kadam 📍 Mumbai, India
+
+🔗 LinkedIn: https://linkedin.com/in/omkar-kadam-5b493b298
+
+⭐ If you like this project, feel free to star the repository!
